@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\ejb\AuctionInMemoryStorageSingleton.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\jms\AuctionUpdateMDB.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\ejb\WebSocketRegistryEJB.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\entity\User.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\entity\AuctionStatus.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\ejb\AuctionManager.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\jms\BidProcessorMDB.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\ejb\AuctionWebSocketEndpointLocal.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\ejb\WebSocketBroadcaster.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\ejb\AuthenticationServiceSingleton.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\ejb\AuthenticationBean.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\entity\Auction.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\ejb\AuctionManagerBean.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\ejb\Authentication.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\ejb\BidManager.java
+C:\Users\DELL\Desktop\auction-system\ejb-module\src\main\java\com\auction\ejb\BidManagerBean.java
