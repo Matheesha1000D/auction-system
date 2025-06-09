@@ -1,4 +1,4 @@
-package com.ashanhimantha.ee;
+package com.matheesha.ee;
 
 public class Main {
     public static void main(String[] args) {
